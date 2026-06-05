@@ -15,9 +15,9 @@ import { useState, useEffect, useRef } from "react";
 import emailjs from "@emailjs/browser"; // npm install @emailjs/browser
 
 // ─── EMAILJS CONFIG — replace with your actual keys from emailjs.com ──────────
-const EMAILJS_SERVICE_ID  = import.meta.env.VITE_EMAILJS_SERVICE_ID  || "service_xxxxxxx";
-const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID || "template_xxxxxxx";
-const EMAILJS_PUBLIC_KEY  = import.meta.env.VITE_EMAILJS_PUBLIC_KEY  || "xxxxxxxxxxxxxxx";
+const EMAILJS_SERVICE_ID  = import.meta.env.VITE_EMAILJS_SERVICE_ID  || "service_qcksa8j";
+const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID || "template_14oy31m";
+const EMAILJS_PUBLIC_KEY  = import.meta.env.VITE_EMAILJS_PUBLIC_KEY  || "5PjKt9XxFo4_05I7N";
 
 // ─── THEME ────────────────────────────────────────────────────────────────────
 const T = {
